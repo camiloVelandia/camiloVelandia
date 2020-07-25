@@ -6,6 +6,19 @@
  </br>Frontend Developer at 360 PMI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
+
+```javascript
+const Camilo = {
+  pronouns: "he" ,
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node,Styled-Components, Jest, Formik, Git, Travis CI ],
+
+ challenge: "I am finishing the #100DaysOfCode challenge focused on react and javascript"
+}
+```
+
+
 <i>Follow me around the web:</i><br>
 
 [![Twitter: xander_coder](https://img.shields.io/twitter/follow/xander_coder?style=social)](https://twitter.com/xander_coder)
