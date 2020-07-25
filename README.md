@@ -10,10 +10,10 @@
 
 ```javascript
 const Camilo = {
+  age: 21,
   pronouns: "he" ,
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node,Styled-Components, Jest, Formik, Git, Travis CI ],
-
  challenge: "I am finishing the #100DaysOfCode challenge focused on react and javascript"
 }
 ```
