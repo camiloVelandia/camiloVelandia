@@ -28,6 +28,8 @@ const Camilo = {
 <br>
 <br>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dephraiim" alt="dephraiim" /> </p>
+<p align="center">
 
 <i>Follow me around the web:</i><br>
 
