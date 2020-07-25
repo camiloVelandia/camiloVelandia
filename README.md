@@ -7,7 +7,7 @@
 </em></p>
 
 [![Twitter: xander_coder](https://img.shields.io/twitter/follow/xander_coder?style=social)](https://twitter.com/xander_coder)
-[![Linkedin: camilo velandia](https://img.shields.io/badge/-camilo velandia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilo-velandia/)](https://www.linkedin.com/in/camilo-velandia/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
