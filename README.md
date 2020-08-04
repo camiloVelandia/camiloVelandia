@@ -1,11 +1,13 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Camilo! 👋</h2>
 </div>
 
 <p><em>Software Developer at Platzi master <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>Frontend Developer at 360 PMI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
+Hi, I'm Camilo Velandia, a passionate self-taught frontEnd web developer from Colombia.
 
 
 ```javascript
@@ -27,6 +29,10 @@ const Camilo = {
 </p>
 <br>
 <br>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=camiloVelandia&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloVelandia&layout=compact&theme=radical" />
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=camiloVelandia" alt="camiloVelandia" /> </p>
 <p align="center">
