@@ -30,9 +30,12 @@ const Camilo = {
 <br>
 <br>
 
+<div style="display=flex;">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=camiloVelandia&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloVelandia&layout=compact&theme=radical" />
 
+</div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=camiloVelandia" alt="camiloVelandia" /> </p>
 <p align="center">
