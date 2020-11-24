@@ -12,12 +12,12 @@ Hi, I'm Camilo Velandia, a passionate self-taught frontEnd web developer from Co
 
 ```javascript
 const Camilo = {
-  age: 21,
+  age: 22,
   pronouns: "he" ,
-  askMeAbout: ["web dev", "tech", "javascript dev"],
+  askMeAbout: ["web dev", "tech", "javascript dev", "react js"],
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node,Styled-Components, Jest, Formik, Git, Travis CI ],
- challenge: "I am finishing the #100DaysOfCode challenge focused on react and javascript"
+  tools: [React, Redux, Node,Styled-Components, Jest, Next js, Formik, Git, Travis_CI ],
+ challenge: "I am finishing the #100DaysOfCode challenge focused on React js and javascript"
 }
 ```
 
