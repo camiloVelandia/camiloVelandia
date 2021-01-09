@@ -16,7 +16,7 @@ const Camilo = {
   pronouns: "he" ,
   askMeAbout: ["web dev", "tech", "javascript dev", "react js"],
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node,Styled-Components, Jest, Next js, Formik, Git, Travis_CI ],
+  tools: [React, Redux, Node, Styled-Components, React-Native , Jest, Next JS, Formik, Git, Travis_CI ],
  challenge: "I am finishing the #100DaysOfCode challenge focused on React js and javascript"
 }
 ```
